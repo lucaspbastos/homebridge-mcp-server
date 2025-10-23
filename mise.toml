@@ -1,6 +1,0 @@
-[tools]
-node = "24"
-pnpm = "latest"
-
-[env]
-_.file = [".env"]
