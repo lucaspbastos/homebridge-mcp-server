@@ -1,6 +1,6 @@
 {
   "name": "homebridge-mcp-server",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "Model Context Protocol server for Homebridge integration",
   "main": "./build/index.js",
