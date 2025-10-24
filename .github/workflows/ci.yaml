@@ -1,11 +1,6 @@
 name: CI - Quality Checks and Build
 
 on:
-  push:
-    branches:
-      - "feature/**"
-      - "fix/**"
-      - "hotfix/**"
   pull_request:
     branches:
       - main
